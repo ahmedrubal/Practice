@@ -10,7 +10,7 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ReadExcell {
-        int x = 30; 
+        int x = 40; 
 	public static String[][]  getExcellData(String sheetName) throws FileNotFoundException {
 		String[][] arrayExcellData = null;
 		
